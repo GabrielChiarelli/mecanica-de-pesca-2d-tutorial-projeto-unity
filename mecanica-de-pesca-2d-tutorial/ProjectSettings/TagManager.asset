@@ -44,3 +44,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BarraDePesca
+    uniqueID: 1908585769
+    locked: 0
